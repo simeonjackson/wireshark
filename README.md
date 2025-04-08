@@ -21,9 +21,9 @@ I created a basic network and used Wireshark to analyze traffic flow between two
 
 In order to do this I created a resource group with two VMs (WindowsVM and LinuxVM) and placed them on the same virtual network (Wireshark-vnet) and subnet.
 </p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![Screenshot 2025-02-24 015152](https://github.com/user-attachments/assets/e8f0537d-5916-468e-80d7-7c5ad0946553)
+
 
 <p>
 Using Remote Desktop Protocol (RDP) I will connect to the Windows VM which has Wireshark installed onto the desktop.
